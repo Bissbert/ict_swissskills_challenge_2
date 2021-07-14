@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ict_swissskills_challenge_2/static/css/main.df0c86fe.chunk.css",
-    "main.js": "/ict_swissskills_challenge_2/static/js/main.523bc2cd.chunk.js",
-    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.523bc2cd.chunk.js.map",
+    "main.js": "/ict_swissskills_challenge_2/static/js/main.a09e4f49.chunk.js",
+    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.a09e4f49.chunk.js.map",
     "runtime-main.js": "/ict_swissskills_challenge_2/static/js/runtime-main.107dd681.js",
     "runtime-main.js.map": "/ict_swissskills_challenge_2/static/js/runtime-main.107dd681.js.map",
     "static/css/2.081f420c.chunk.css": "/ict_swissskills_challenge_2/static/css/2.081f420c.chunk.css",
-    "static/js/2.cbd50690.chunk.js": "/ict_swissskills_challenge_2/static/js/2.cbd50690.chunk.js",
-    "static/js/2.cbd50690.chunk.js.map": "/ict_swissskills_challenge_2/static/js/2.cbd50690.chunk.js.map",
+    "static/js/2.da2a23f8.chunk.js": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js",
+    "static/js/2.da2a23f8.chunk.js.map": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js.map",
     "static/js/3.2448c58c.chunk.js": "/ict_swissskills_challenge_2/static/js/3.2448c58c.chunk.js",
     "static/js/3.2448c58c.chunk.js.map": "/ict_swissskills_challenge_2/static/js/3.2448c58c.chunk.js.map",
     "static/js/4.d89118d1.chunk.js": "/ict_swissskills_challenge_2/static/js/4.d89118d1.chunk.js",
@@ -15,14 +15,14 @@
     "index.html": "/ict_swissskills_challenge_2/index.html",
     "static/css/2.081f420c.chunk.css.map": "/ict_swissskills_challenge_2/static/css/2.081f420c.chunk.css.map",
     "static/css/main.df0c86fe.chunk.css.map": "/ict_swissskills_challenge_2/static/css/main.df0c86fe.chunk.css.map",
-    "static/js/2.cbd50690.chunk.js.LICENSE.txt": "/ict_swissskills_challenge_2/static/js/2.cbd50690.chunk.js.LICENSE.txt",
+    "static/js/2.da2a23f8.chunk.js.LICENSE.txt": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js.LICENSE.txt",
     "static/media/home.md": "/ict_swissskills_challenge_2/static/media/home.16ba3eaf.md"
   },
   "entrypoints": [
     "static/js/runtime-main.107dd681.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.cbd50690.chunk.js",
+    "static/js/2.da2a23f8.chunk.js",
     "static/css/main.df0c86fe.chunk.css",
-    "static/js/main.523bc2cd.chunk.js"
+    "static/js/main.a09e4f49.chunk.js"
   ]
 }
