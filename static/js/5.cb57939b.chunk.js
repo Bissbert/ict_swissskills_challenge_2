@@ -1,2 +1,0 @@
-(this.webpackJsonpict_swissskills_challenge_2=this.webpackJsonpict_swissskills_challenge_2||[]).push([[5],{68:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/speedHibernateEasy.3593cfca.md"}}]);
-//# sourceMappingURL=5.cb57939b.chunk.js.map
