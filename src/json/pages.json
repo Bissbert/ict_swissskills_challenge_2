@@ -1,0 +1,15 @@
+{
+  "trades": {
+    "17" : {
+      "Speed Hibernate (easy)": {
+        "page": "speedHibernateEasy"
+      },
+      "Speed Hibernate (hard)": {
+        "page": "speedHibernateHard"
+      }
+    },
+    "19" : {
+
+    }
+  }
+}
