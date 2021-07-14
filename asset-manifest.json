@@ -1,28 +1,34 @@
 {
   "files": {
     "main.css": "/ict_swissskills_challenge_2/static/css/main.df0c86fe.chunk.css",
-    "main.js": "/ict_swissskills_challenge_2/static/js/main.384cb766.chunk.js",
-    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.384cb766.chunk.js.map",
-    "runtime-main.js": "/ict_swissskills_challenge_2/static/js/runtime-main.cfa04778.js",
-    "runtime-main.js.map": "/ict_swissskills_challenge_2/static/js/runtime-main.cfa04778.js.map",
+    "main.js": "/ict_swissskills_challenge_2/static/js/main.57e8c836.chunk.js",
+    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.57e8c836.chunk.js.map",
+    "runtime-main.js": "/ict_swissskills_challenge_2/static/js/runtime-main.487bf746.js",
+    "runtime-main.js.map": "/ict_swissskills_challenge_2/static/js/runtime-main.487bf746.js.map",
     "static/css/2.081f420c.chunk.css": "/ict_swissskills_challenge_2/static/css/2.081f420c.chunk.css",
-    "static/js/2.da2a23f8.chunk.js": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js",
-    "static/js/2.da2a23f8.chunk.js.map": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js.map",
-    "static/js/3.2448c58c.chunk.js": "/ict_swissskills_challenge_2/static/js/3.2448c58c.chunk.js",
-    "static/js/3.2448c58c.chunk.js.map": "/ict_swissskills_challenge_2/static/js/3.2448c58c.chunk.js.map",
+    "static/js/2.54754a55.chunk.js": "/ict_swissskills_challenge_2/static/js/2.54754a55.chunk.js",
+    "static/js/2.54754a55.chunk.js.map": "/ict_swissskills_challenge_2/static/js/2.54754a55.chunk.js.map",
+    "static/js/3.9ff91d40.chunk.js": "/ict_swissskills_challenge_2/static/js/3.9ff91d40.chunk.js",
+    "static/js/3.9ff91d40.chunk.js.map": "/ict_swissskills_challenge_2/static/js/3.9ff91d40.chunk.js.map",
     "static/js/4.cf883d62.chunk.js": "/ict_swissskills_challenge_2/static/js/4.cf883d62.chunk.js",
     "static/js/4.cf883d62.chunk.js.map": "/ict_swissskills_challenge_2/static/js/4.cf883d62.chunk.js.map",
+    "static/js/5.cb57939b.chunk.js": "/ict_swissskills_challenge_2/static/js/5.cb57939b.chunk.js",
+    "static/js/5.cb57939b.chunk.js.map": "/ict_swissskills_challenge_2/static/js/5.cb57939b.chunk.js.map",
+    "static/js/6.673209ef.chunk.js": "/ict_swissskills_challenge_2/static/js/6.673209ef.chunk.js",
+    "static/js/6.673209ef.chunk.js.map": "/ict_swissskills_challenge_2/static/js/6.673209ef.chunk.js.map",
     "index.html": "/ict_swissskills_challenge_2/index.html",
     "static/css/2.081f420c.chunk.css.map": "/ict_swissskills_challenge_2/static/css/2.081f420c.chunk.css.map",
     "static/css/main.df0c86fe.chunk.css.map": "/ict_swissskills_challenge_2/static/css/main.df0c86fe.chunk.css.map",
-    "static/js/2.da2a23f8.chunk.js.LICENSE.txt": "/ict_swissskills_challenge_2/static/js/2.da2a23f8.chunk.js.LICENSE.txt",
-    "static/media/home2.md": "/ict_swissskills_challenge_2/static/media/home2.3593cfca.md"
+    "static/js/2.54754a55.chunk.js.LICENSE.txt": "/ict_swissskills_challenge_2/static/js/2.54754a55.chunk.js.LICENSE.txt",
+    "static/media/home2.md": "/ict_swissskills_challenge_2/static/media/home2.3593cfca.md",
+    "static/media/speedHibernateEasy.md": "/ict_swissskills_challenge_2/static/media/speedHibernateEasy.3593cfca.md",
+    "static/media/speedHibernateHard.md": "/ict_swissskills_challenge_2/static/media/speedHibernateHard.3593cfca.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfa04778.js",
+    "static/js/runtime-main.487bf746.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.da2a23f8.chunk.js",
+    "static/js/2.54754a55.chunk.js",
     "static/css/main.df0c86fe.chunk.css",
-    "static/js/main.384cb766.chunk.js"
+    "static/js/main.57e8c836.chunk.js"
   ]
 }
