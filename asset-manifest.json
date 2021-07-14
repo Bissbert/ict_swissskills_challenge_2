@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ict_swissskills_challenge_2/static/css/main.df0c86fe.chunk.css",
-    "main.js": "/ict_swissskills_challenge_2/static/js/main.6eaf0363.chunk.js",
-    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.6eaf0363.chunk.js.map",
+    "main.js": "/ict_swissskills_challenge_2/static/js/main.523bc2cd.chunk.js",
+    "main.js.map": "/ict_swissskills_challenge_2/static/js/main.523bc2cd.chunk.js.map",
     "runtime-main.js": "/ict_swissskills_challenge_2/static/js/runtime-main.107dd681.js",
     "runtime-main.js.map": "/ict_swissskills_challenge_2/static/js/runtime-main.107dd681.js.map",
     "static/css/2.081f420c.chunk.css": "/ict_swissskills_challenge_2/static/css/2.081f420c.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.081f420c.chunk.css",
     "static/js/2.cbd50690.chunk.js",
     "static/css/main.df0c86fe.chunk.css",
-    "static/js/main.6eaf0363.chunk.js"
+    "static/js/main.523bc2cd.chunk.js"
   ]
 }
